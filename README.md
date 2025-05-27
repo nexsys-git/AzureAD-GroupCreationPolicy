@@ -1,6 +1,7 @@
 # Azure AD Office 365 Group Creation Policy
 
 Questo script PowerShell consente di limitare la creazione di Gruppi Office 365 (Unified Groups) solo ai membri di un gruppo di sicurezza specifico in Azure AD.
+Script creato da Nexsys - https://www.nexsys.it
 
 ## Requisiti
 
